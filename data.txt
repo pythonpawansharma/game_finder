@@ -1,0 +1,1 @@
+[{"name": "tic tac", "min_players": 2, "max_players": 4, "duration": 10, "min_age": 10}, {"name": "loodo", "min_players": 1, "max_players": 4, "duration": 20, "min_age": 15}, {"name": "cricket", "min_players": 12, "max_players": 15, "duration": 300, "min_age": 25}, {"name": "football", "min_players": 6, "max_players": 12, "duration": 70, "min_age": 20}]
